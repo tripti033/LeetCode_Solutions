@@ -16,18 +16,14 @@ The repository is organized into folders, with each folder representing a specif
 
 You can navigate through the repository to explore the solutions to specific problems. Each source code file is named after the problem it solves, making it easy to locate and review the solutions.
 
-Feel free to explore the solutions, understand the thought process behind them, and analyze the code implementation. You can use them as a reference to enhance your own problem-solving skills and gain insights into different approaches.
-
-## Contributions
-
-While this repository primarily contains my own solutions, I welcome contributions from fellow enthusiasts and interview preparation enthusiasts. If you have a different or more optimized solution to any problem, feel free to submit a pull request. Your contributions will help create a rich collection of diverse problem-solving techniques and foster a collaborative learning environment.
+You can explore the solutions, understand the thought process behind them, and then go over the code implementation. You can use them as a reference to enhance your problem-solving skills and gain insights into different approaches.
 
 ## Acknowledgments
 
-I would like to express my gratitude to Striver (Aditya Verma) for creating and sharing the Striver's SDE Sheet. His valuable resources have greatly contributed to my understanding of data structures, algorithms, and coding interview preparation.
+I want to thank Striver (Aditya Verma) for creating and sharing Striver's SDE Sheet. His valuable resources have greatly contributed to my understanding of data structures, algorithms, and coding interview preparation.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the solutions or the repository itself, please feel free to reach out to me. You can contact me through my GitHub profile or email address.
+If you have any questions, suggestions, or feedback regarding the solutions or the repository itself, please feel free to contact me. You can contact me through my GitHub profile or email address.
 
 
